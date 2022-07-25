@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbcc_bpf.a CMakeFiles/bpf-static.dir/libbpf.c.o CMakeFiles/bpf-static.dir/perf_reader.c.o
+/usr/bin/ranlib libbcc_bpf.a
