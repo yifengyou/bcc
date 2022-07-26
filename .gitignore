@@ -1,3 +1,7 @@
+.vscode
+.idea
+*.a
+*.cc.o
 BUILDROOT
 SRPMS
 RPMS
